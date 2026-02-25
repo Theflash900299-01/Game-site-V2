@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "game-site-v1",
+  "name": "game-site-v4",
   "compatibility_date": "2025-09-27",
   "observability": {
     "enabled": true
